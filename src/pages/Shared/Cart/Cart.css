@@ -1,0 +1,26 @@
+.cart-title{
+    background: linear-gradient(135deg, #0cc5b7 0%,#2bd891 100%);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.cart-description-title{
+    border-bottom: 2px solid #dee2e6;
+    border-top: 1px solid #dee2e6;;
+}
+.price-total{
+    border:  1px solid #dee2e6;;
+}
+.tax{
+    border-top:  1px solid #dee2e6;
+    border-bottom:  1px solid #dee2e6;
+    margin: 0 0.001px;
+}
+.price-title{
+    border-right: 1px solid #dee2e6;
+}
+.btn-checkout{
+    background: linear-gradient(135deg, #ff934b 0%, #ff5e62 100%);
+  color: white;
+}

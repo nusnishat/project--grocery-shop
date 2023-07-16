@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+  }
+
+  .footer-front p{
+    font-size: 15px;
+  }
+  .footer-end{
+      background-color: #171b20;
+      color: white;
+  }
+  .footerCartIcon{
+      background:  linear-gradient(135deg, #ff934b 0%,#ff5e62 100%);
+      color: white;
+      margin-left: 5px;
+  }

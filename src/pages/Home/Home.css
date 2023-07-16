@@ -1,0 +1,33 @@
+body p{
+    color: #888; 
+}
+.home-banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-banner img{
+    width: 60%;
+}
+.home-title{
+    background: linear-gradient(135deg, #0cc5b7 0%,#2bd891 100%);
+    color: white;
+}
+.provide{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.what-we-provide-container h4{
+    color: #0cc5b7;
+}
+
+.carousel-container{
+    width: 70%;
+}
+.about-us-banner img{
+    width: 80%;
+}
+.about-container h3{
+    color: #e96125;;
+}

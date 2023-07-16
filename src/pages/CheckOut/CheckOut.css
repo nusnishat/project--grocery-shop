@@ -1,0 +1,11 @@
+.checkout-form{
+    margin-left: 400px;
+    width: 600px;
+}
+.btn-checkout{
+    background: linear-gradient(135deg, #ff934b 0%, #ff5e62 100%);
+  color: white;
+  padding:  10px 250px;
+  margin-left: 8px;
+  margin-top: 20px;
+}
